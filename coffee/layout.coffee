@@ -21,6 +21,6 @@ export default RootLayout = ({ children }) ->
       <body
         className='antialiased'
       >
-        {children}
+        {children} !
       </body>
     </html>

@@ -1,2 +1,2 @@
-export default Home = () -> <div> Hello world </div>
+export default Home = () -> <div> Hello worl!!d </div>
 
