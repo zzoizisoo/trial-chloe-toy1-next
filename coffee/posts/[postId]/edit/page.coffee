@@ -1,0 +1,1 @@
+export default Page = ({params}) -> <div> Edit Post {params.postId} </div>
